@@ -1,0 +1,10 @@
+{
+    "lin":{
+        "version": 130,
+        "bin": "omnidaemon-0.1.3.0/omnixepdl"
+    },
+    "win": {
+        "version": 130,
+        "bin": "omnidaemon-0.1.3.0/omnixepd.exe"
+    }
+}
